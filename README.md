@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Will. 
-- 🌱 I’m working as an Ecologist with the aim of transitioning into a career in Software Development.  
+- 🌱 I’m working as an Ecologist with the aim of transitioning into a career in Software Development as a Front-End Web Dev.  
 - 👀 My current interests are Python, CSS, HTML, and Javascript.
 - 📫 You can contact me via email at: dearden98@hotmail.com
 
